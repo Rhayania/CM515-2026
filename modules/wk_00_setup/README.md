@@ -39,6 +39,10 @@ https://posit.co/download/rstudio-desktop/
 
 https://code.visualstudio.com/download
 
+#### Spyder: (Optional alternative to VSCode)
+
+https://www.spyder-ide.org/
+
 #### GitHub Desktop:
 
 https://github.com/apps/desktop
@@ -62,3 +66,7 @@ https://www.pymol.org/
 #### CellProfiler:
 
 https://cellprofiler.org/releases
+
+#### Fiji:
+
+https://imagej.net/software/fiji/
