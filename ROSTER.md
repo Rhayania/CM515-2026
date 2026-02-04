@@ -10,3 +10,4 @@
 | Grissy Sime Mora |               |               |               |
 | Juelle St Clair |               |               |               |
 | Sarah Tallent |               |               |               |
+| Kira |       vasquezk        |      kira@school.com         |      confused         |
